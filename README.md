@@ -7,6 +7,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yuta-nishi&show_icons=true&locale=en" alt="yuta-nishi" /></p>
 
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
+# ![zenn](./icon/zenn.png) Latest Blog Posts
+<!-- BLOG-POSTuLIST:START -->
 <!-- BLOG-POST-LIST:END -->
