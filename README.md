@@ -6,3 +6,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuta-nishi&show_icons=true&locale=en&layout=compact" alt="yuta-nishi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yuta-nishi&show_icons=true&locale=en" alt="yuta-nishi" /></p>
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
