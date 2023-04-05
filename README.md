@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Yuta Nishida</h1>
-<h3 align="left">A student in Japan.</h3>
+<h3 align="left">An aspiring software engineer student in Japan.</h3>
 
 
 
