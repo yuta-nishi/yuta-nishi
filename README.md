@@ -11,15 +11,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 April 2023 - To: 13 April 2023
+From: 07 April 2023 - To: 14 April 2023
 
-Total Time: 9 hrs 54 mins
+Total Time: 11 hrs 32 mins
 
-JavaScript   6 hrs 8 mins    ################---------   62.03 %
-Bash         1 hr 48 mins    #####--------------------   18.28 %
-Vim Script   46 mins         ##-----------------------   07.75 %
-JSON         33 mins         #------------------------   05.68 %
-Other        15 mins         #------------------------   02.61 %
+JavaScript   10 hrs 2 mins   ######################---   87.01 %
+JSON         28 mins         #------------------------   04.17 %
+Bash         19 mins         #------------------------   02.82 %
+Other        15 mins         #------------------------   02.24 %
 ```
 
 <!--END_SECTION:waka-->
