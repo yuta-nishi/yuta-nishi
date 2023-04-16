@@ -3,11 +3,11 @@
 
 
 
-<p><img align="left" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuta-nishi&show_icons=true&locale=en&layout=compact&theme=onedark" alt="yuta-nishi" /></p>
+<p><img align="left" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuta-nishi&show_icons=true&locale=en&layout=compact&theme=onedark&count_private=true" alt="yuta-nishi" /></p>
 
-<p>&nbsp;<img align="center" height="180px" src="https://github-readme-stats.vercel.app/api?username=yuta-nishi&show_icons=true&locale=en&theme=onedark" alt="yuta-nishi" /></p>
+<p>&nbsp;<img align="center" height="180px" src="https://github-readme-stats.vercel.app/api?username=yuta-nishi&show_icons=true&locale=en&theme=onedark&count_private=true" alt="yuta-nishi" /></p>
 
-## 📊 Weakly development breakdown
+## 📊 Development Content of One Week
 <!--START_SECTION:waka-->
 
 ```text
