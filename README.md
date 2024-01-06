@@ -9,5 +9,5 @@
 
 ## ![zenn](./icon/zenn.png) Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [最速で寿司打1万円コースでお釣りをもらう方法](https://zenn.dev/kakifl/articles/touch-typing)
+- [寿司打1万円コースでお釣りをもらうためにすること](https://zenn.dev/kakifl/articles/touch-typing)
 <!-- BLOG-POST-LIST:END -->
