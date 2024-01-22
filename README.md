@@ -9,6 +9,7 @@
 
 ## ![zenn](./icon/zenn.png) Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [VSCodeVimからVSCode Neovimに移行したのでメモ](https://zenn.dev/kakifl/articles/vscode-vim-to-neovim)
 - [Obsidianがいい感じ](https://zenn.dev/kakifl/articles/obsidian-is-good)
 - [寿司打1万円コースでお釣りをもらうためにすること](https://zenn.dev/kakifl/articles/touch-typing)
 <!-- BLOG-POST-LIST:END -->
