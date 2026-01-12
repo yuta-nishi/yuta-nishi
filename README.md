@@ -1,3 +1,1 @@
-<p><img align="left" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuta-nishi&show_icons=true&locale=en&layout=compact&theme=onedark&count_private=true" alt="yuta-nishi" /></p>
 
-<p><img align="center" height="180px" src="https://github-readme-stats.vercel.app/api?username=yuta-nishi&show_icons=true&locale=en&theme=onedark&count_private=true" alt="yuta-nishi" /></p>
